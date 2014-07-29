@@ -36,7 +36,7 @@ $(call inherit-product, device/sony/montblanc-common/prebuilt/resources-480x854.
 $(call inherit-product, device/sony/kumquat/kumquat.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := full_kumquat
+PRODUCT_NAME := kumquat
 PRODUCT_DEVICE := kumquat
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
